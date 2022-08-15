@@ -1,14 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "bread": [
+    { "id": 1, "title": "Sourdough bread" },
+    { "id": 2, "title": "Brioche" },
+    { "id": 3, "title": "Focaccia" },
+    { "id": 4, "title": "Flatbread" },
+    { "id": 5, "title": "Pita" },
+    { "id": 6, "title": "Rye bread" },
+    { "id": 7, "title": "Whole wheat bread" },
+    { "id": 8, "title": "Baguette" },
+    { "id": 9, "title": "English Muffin" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "ingredients": [
+    { "id": 1, "title": "Cucumbers" },
+    { "id": 2, "title": "Tomatoes" },
+    { "id": 3, "title": "Bacon" },
+    { "id": 4, "title": "Avocadoes" }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "sauces": [
+    { "id": 1, "title": "Mayo" },
+    { "id": 2, "title": "Curry sauce" },
+    { "id": 3, "title": "Tabasco" },
+    { "id": 4, "title": "Ketchup" }
+  ]
 }
